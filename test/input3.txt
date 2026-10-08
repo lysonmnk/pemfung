@@ -1,0 +1,9 @@
+p1 = Point {x = 3, y = 3}
+p2 = Point {x = 3, y = 3}
+n = 1
+isOnSbY(p1) = False
+isOnSbY(p2) = False
+isEqual(p1, p2) = True
+translasiSbY(p1, n) = Point {x = 3, y = 4}
+translasiSbY(p2, n) = Point {x = 3, y = 4}
+jarak(p1, p2) = 0.0

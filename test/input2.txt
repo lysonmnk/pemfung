@@ -1,0 +1,9 @@
+p1 = Point {x = 0, y = 5}
+p2 = Point {x = 3, y = 9}
+n = -2
+isOnSbY(p1) = True
+isOnSbY(p2) = False
+isEqual(p1, p2) = False
+translasiSbY(p1, n) = Point {x = 0, y = 3}
+translasiSbY(p2, n) = Point {x = 3, y = 7}
+jarak(p1, p2) = 5.0
